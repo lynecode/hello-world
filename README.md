@@ -1,2 +1,5 @@
 # hello-world
-Ce dépôt est pour la pratique du flux GitHub
+Je suis étudiante en informatique et passionnée par le développement web.
+
+
+
